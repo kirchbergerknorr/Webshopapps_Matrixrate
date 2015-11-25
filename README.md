@@ -8,17 +8,13 @@ For more information please visit http://www.magentocommerce.com/magento-connect
 Installation
 ------------
 
-Add the `require` and `repositories` sections to your composer.json as shown in the example below. Then run `composer update`.
+Add the `require` section to your composer.json as shown in the example below. Then run `composer update`.
 
 *composer.json example*
 
 ```
 {
     ...
-    
-    "repositories": [
-        {"type": "git", "url": "https://github.com/kirchbergerknorr/Webshopapps_Matrixrate"},
-    ],
     
     "require": {
         "kirchbergerknorr/webshopapps_matrixrate": "*"
