@@ -17,7 +17,7 @@ Add the `require` section to your composer.json as shown in the example below. T
     ...
     
     "require": {
-        "kirchbergerknorr/webshopapps_matrixrate": "*"
+        "webshopapps/matrixrate": "*"
     },
     
     ...
