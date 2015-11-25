@@ -1,0 +1,14 @@
+{
+    "name": "webshopapps/matrixrate",
+    "description": "Multiple Table Rates Extension",
+    "type": "magento-module",
+    "authors": [
+        {
+        	"name": "Your name", 
+        	"email": "your@email"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
