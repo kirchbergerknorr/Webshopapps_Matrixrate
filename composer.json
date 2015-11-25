@@ -4,8 +4,8 @@
     "type": "magento-module",
     "authors": [
         {
-        	"name": "Your name", 
-        	"email": "your@email"
+        	"name": "Michael Furtner", 
+        	"email": "mf@kirchbergerknorr.de"
         }
     ],
     "require": {
