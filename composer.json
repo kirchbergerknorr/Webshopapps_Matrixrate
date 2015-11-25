@@ -7,11 +7,5 @@
         	"name": "Michael Furtner", 
         	"email": "mf@kirchbergerknorr.de"
         }
-    ],
-    "require": {
-        "magento-hackathon/magento-composer-installer": "*"
-    },
-    "extra": {
-        "magento-root-dir": "root"
-    }
+    ]
 }

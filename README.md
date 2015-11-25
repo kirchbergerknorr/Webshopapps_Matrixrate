@@ -5,21 +5,6 @@ For more information please visit http://www.magentocommerce.com/magento-connect
 
 *Please note that we are not the developer of this extension. In this repo we only added modman/composer support. We will not provide any support for this repository. If you have any problems on integration, please use the official link mentioned above.*
 
-Installation
-------------
+## Installation
 
-Add the `require` section to your composer.json as shown in the example below. Then run `composer update`.
-
-*composer.json example*
-
-```
-{
-    ...
-
-    "require": {
-        "webshopapps/matrixrate": "*"
-    },
-    
-    ...
-}
-```
+`composer require kirchbergerknorr/webshopapps_matrixrate 2.0.2`
