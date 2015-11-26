@@ -1,5 +1,5 @@
 # Webshopapps_Matrixrate
-Multiple Table Rates Extension
+A multiple table rates extension
 
 For more information please visit http://www.magentocommerce.com/magento-connect/webshopapps-matrixrate-1-multiple-table-rates-extension.html
 

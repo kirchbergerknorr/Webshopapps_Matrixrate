@@ -1,6 +1,6 @@
 {
     "name": "kirchbergerknorr/webshopapps_matrixrate",
-    "description": "Multiple Table Rates Extension",
+    "description": "A multiple table rates extension",
     "type": "magento-module",
     "authors": [
         {
