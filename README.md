@@ -7,4 +7,4 @@ For more information please visit http://www.magentocommerce.com/magento-connect
 
 ## Installation
 
-`composer require kirchbergerknorr/webshopapps_matrixrate 2.0.2`
+`composer require kirchbergerknorr/webshopapps_matrixrate`
